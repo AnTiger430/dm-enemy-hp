@@ -1,0 +1,11 @@
+[
+  {
+    "type": "Layout",
+    "id": "R.mods.dm.enemy_hp.views.EnemyHpOverlay",
+    "path": "coui://gui/gameface/mods/dm/EnemyHp/EnemyHp.html",
+    "parameters": {
+      "entrance": "EnemyHpOverlay",
+      "impl": "gameface"
+    }
+  }
+]

@@ -1,0 +1,11 @@
+*.pyc
+__pycache__/
+dist/
+package/res/scripts/
+mods/
+*.tmp
+.pytest_cache/
+*.wotmod
+*.mtmod
+*.zip
+*.log
